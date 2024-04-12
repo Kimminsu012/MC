@@ -1,0 +1,23 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+#fmenu {
+    width: 1024px;
+    height: 100px;
+    color: rgb(87, 80, 80);
+    font-size: 18px;
+    font-family: "Nanum Gothic", sans-serif;
+    font-weight: 700;
+    line-height: 45px;
+    text-align: center;
+}
+
+b {
+    font-size: 19px;
+    font-family: "Nanum Gothic", sans-serif;
+    font-weight: 800;
+    text-align: center;
+}

@@ -1,0 +1,60 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+#hmenu {
+    text-align: center;
+}
+
+ul {
+    list-style: none;
+}
+
+.menu {
+    width: 1024px;
+    height: 105px;
+    background-color: aliceblue;
+    padding-top: 40px;
+    margin: auto;
+
+}
+
+.menu li {
+    font-family: "Nanum Gothic", sans-serif;
+    font-weight: 800;
+    font-size: 25px;
+    letter-spacing: 0.8px;
+    position: relative;
+    left: 0.3px;
+}
+
+.genre {
+    padding-right: 30px;
+}
+
+.findmusic {
+    padding-right: 30px;
+}
+
+.board {
+    padding-right: 30px;
+}
+
+.submenu {
+    text-align: right;
+}
+
+.submenu li {
+    font-family: "Nanum Gothic", sans-serif;
+    font-weight: 800;
+    font-size: 15px;
+    position: relative;
+    bottom: 95px;
+    right: 470px;
+}
+
+.menu li, .submenu li {
+    display: inline;
+}
